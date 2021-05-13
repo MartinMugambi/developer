@@ -1,0 +1,106 @@
+name: developer
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+   
+  cupertino_icons: ^0.1.2
+  http: ^0.12.1
+  geolocator: ^5.3.1
+  carousel_slider: ^2.2.1
+  cached_network_image: ^2.3.2+1
+  firebase_auth: 
+  table_calendar: ^2.2.3
+  google_sign_in: 
+  flutter_facebook_login: 
+  cloud_firestore: 
+  firebase_core: ^0.4.4+3
+  firebase_storage: ^3.1.5
+  image_picker: ^0.6.6+1
+  image_cropper: ^1.2.2
+  connectivity: ^0.4.8+2
+  simple_animations: ^1.3.12
+  location: 
+  flutter_dotenv: ^2.1.0
+  email_validator: ^1.0.4
+  flutter_typeahead: ^1.8.1
+  google_maps_flutter: ^0.5.11
+  google_map_polyline: ^0.2.0
+  google_maps_webservice: ^0.0.16
+  flutter_google_places: ^0.2.0
+  provider: ^4.3.2
+  flutter_svg: ^0.18.0
+  animate_do: ^1.7.2
+  flutter_polyline_points: ^0.2.2
+  google_fonts: ^1.1.0
+  smooth_page_indicator: ^0.2.0
+  firebase_messaging: 
+  flutter_local_notifications: ^2.0.1
+  square_in_app_payments: ^1.5.0
+  get: ^3.24.0
+  firebase_database: 
+  fluttertoast: 
+  
+  
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+   
+  uses-material-design: true
+
+   
+  assets:
+    - images/onboa.png
+    - images/home.png
+    - images/transport.png
+    - images/extra.png
+    - images/logo.png
+    - images/distance.png
+    - images/back.jpg
+    - images/post.png
+    - images/spinner.gif
+    - images/ripple.gif
+    - images/burger_icon.svg
+    - images/pos.jpg
+    - images/sma.jpg
+    - images/smal.jpg
+    - images/normalMarker.png
+    - images/selectedMarker.png
+    
+ 
+  fonts:
+    - family: Exo-Italic-VariableFont_wght
+      fonts:
+        - asset: fonts/Exo-VariableFont_wght.ttf
+        
+    - family: Exo-VariableFont_wght
+      fonts:
+        - asset: fonts/Exo-VariableFont_wght.ttf
+
+    - family:  ProductSans-Bold
+      fonts:
+        - asset: fonts/ProductSans-Bold.ttf
+        
+
+
+
+
+
+
+       
+        
+
+   

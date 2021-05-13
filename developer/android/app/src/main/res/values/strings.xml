@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Safari</string>
+    <string name="facebook_app_id">549439739276074</string>
+    <string name="fb_login_protocol_scheme">fb549439739276074</string>
+
+</resources>
